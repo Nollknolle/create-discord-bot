@@ -1,0 +1,33 @@
+{
+  "name": "@nlmyr/create-discord-bot",
+  "version": "1.0.0",
+  "description": "A NodeJS cli tool for discord bots.",
+  "bin": "src/cli.js",
+  "main": "src/cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nollknolle/create-discord-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bots",
+    "Discord",
+    "Bots",
+    "Slash",
+    "Commands"
+  ],
+  "author": "Nlmyr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nollknolle/create-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Nollknolle/create-discord-bot#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "log-symbols": "^5.1.0"
+  }
+}

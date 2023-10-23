@@ -28,6 +28,6 @@
   "homepage": "https://github.com/Nollknolle/create-discord-bot#readme",
   "dependencies": {
     "inquirer": "^9.1.4",
-    "log-symbols": "^5.1.0"
+    "log-symbols": "^6.0.0"
   }
 }
